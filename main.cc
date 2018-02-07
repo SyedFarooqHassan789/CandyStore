@@ -2,13 +2,6 @@
 //  main.cpp
 //  HW2_candy
 //
-//  Created by Kilamo Terhi on 26/02/15. Modified by Matti Rintala 2016
-//  Copyright (c) 2015 Kilamo Terhi, 2016 Matti Rintala. All rights reserved.
-//
-
-// DO NOT MODIFY THE CONTENTS OF THIS FILE!
-// (If you absolutelu have to (for debugging, for example), copy this file to another name and modify the copy)
-
 #include "datastructure.hh"
 
 #include <iostream>
